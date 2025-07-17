@@ -1,4 +1,4 @@
-# -# 🔐 Build a Security Monitoring System on AWS
+### 🔐 Build a Security Monitoring System on AWS
 
 ---
 
